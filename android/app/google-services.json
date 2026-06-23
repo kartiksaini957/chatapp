@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985952256121",
+    "project_id": "gurujii-1d9c6",
+    "storage_bucket": "gurujii-1d9c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985952256121:android:4dfac5f0368dd0b3f2d4a8",
+        "android_client_info": {
+          "package_name": "com.shriHitRadhaKripa.guruji_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeG02BoHPr6SqAG18qmh_hv2RxYEzSUAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
